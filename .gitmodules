@@ -1,0 +1,9 @@
+[submodule "redirect-check-backend"]
+	path = redirect-check-backend
+	url = https://github.com/salvatorenovelli/redirect-check-backend.git
+[submodule "redirect-check-frontend"]
+	path = redirect-check-frontend
+	url = https://github.com/salvatorenovelli/redirect-check-frontend.git
+[submodule "redirect-check-reverseproxy"]
+	path = redirect-check-reverseproxy
+	url = https://github.com/salvatorenovelli/redirect-check-reverseproxy.git
